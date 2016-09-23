@@ -1,6 +1,6 @@
 {
     "name": "valve-master",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Valve Master Server Query Protocol implementation",
     "keywords": ["valve","source","master","steam"],
     "homepage": "https://github.com/philhartung/valve-master/",
