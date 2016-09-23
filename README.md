@@ -5,7 +5,8 @@ The protocol specification can be found here: https://developer.valvesoftware.co
 
 Usage
 -----
-Install with npm
+Install with npm:
+
     npm install valve-master
 
 Example
