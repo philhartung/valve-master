@@ -1,0 +1,16 @@
+{
+    "name": "valve-master",
+    "version": "0.0.1",
+    "description": "Valve Master Server Query Protocol implementation",
+    "keywords": ["valve","source","master","steam"],
+    "homepage": "https://github.com/philhartung/valve-master/",
+    "bugs": {"url":"https://github.com/philhartung/valve-master/issues"},
+    "author": {
+        "name": "Philipp Hartung"
+    },
+    "main": "valve-master",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/philhartung/valve-master.git"
+    }
+}
